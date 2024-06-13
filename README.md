@@ -12,3 +12,5 @@ To run this Project, follow the below steps:
 8. Run your Project.
 
 9. Deployed on Hugging Face - https://huggingface.co/spaces/harroop-1592/Langchain-Q-A-Chatbot
+
+10. Enjoy!!
